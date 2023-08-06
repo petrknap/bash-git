@@ -1,0 +1,10 @@
+[user]
+	email = 8299754+petrknap@users.noreply.github.com
+	name = Petr Knap
+[push]
+	default = current
+[core]
+	eol = lf
+	autocrlf = input
+[merge]
+	ff = only
