@@ -1,6 +1,6 @@
 # Dockerized Bash and Git
 
-Ignore this repository, it cointains only dockerized Bash and Git for unix-like work on Windows.
+Ignore this repository with a clear conscience, it contains nothing interesting.
 
 ---
 
